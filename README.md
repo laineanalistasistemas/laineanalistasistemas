@@ -1,8 +1,7 @@
 - 👋 Olá, sou Regilaine
 - 🔭 Atualmente estou trabalhando de Suporte Tecnico Computacional Pleno 
 - 🌱 Atualmente estou aprendendo a desenvolver para plataformas:
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"  width="40" height="40" />
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"  width="40" height="40" />
  - 👯 Estou procurando colaborar em tudo entrando com pedagogia, pretendo levar a todos a tecnologia inclusiva.
 - 🤔 Estou procurando ajuda com dicas,apoios, didaticas para poder levar aos nossos autistas programas didaticos,etc..
 - 💬 Pergunte-me sobre o porque disso?
