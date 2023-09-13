@@ -13,3 +13,6 @@
 </div>
 <img src="https://a.imagem.app/bfCkQ3.png" alt="bfCkQ3.png" border="0" />
 
+## Minhas estatísticas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laineanalistasistemas&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laineanalistasistemas&show_icons=true)
+
